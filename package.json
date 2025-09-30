@@ -1,0 +1,26 @@
+{
+  "name": "visactor-vtable-vue-demo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "3.5.22",
+    "@visactor/vtable": "1.20.1",
+    "@visactor/vue-vtable": "1.20.1",
+    "@arco-design/web-vue": "2.57.0",
+    "tslib": "2.8.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5",
+    "vue-tsc": "^1.8.5"
+  },
+  "keywords": [],
+  "description": ""
+}
